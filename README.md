@@ -1,2 +1,3 @@
-# Module_13_Challenge
-Earthquake data
+# Mapping Earthquakes
+### 12 Sept 2021
+
